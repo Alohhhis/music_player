@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: "monoton-regular";
+  src: local("monoton-regular"), url("../src/Fonts/Monoton-Regular.ttf") format("truetype");
+  font-weight: bold;
+}
